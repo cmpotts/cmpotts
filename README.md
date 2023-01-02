@@ -4,8 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me
-- 👋 Hi, I’m a PhD in Computer Science at NC State University graduating December 2022.
-- 🎓 My dissertation is about building AI/NLP tools for domain experts, titled *Interactive Data Analysis for Experts: Tools, Techniques, and Assessments*.
+- 👋 Hi, I have a PhD in Computer Science from NC State University.
+- 🎓 My dissertation was about building AI/NLP tools for domain experts, titled *Interactive Data Analysis for Experts: Tools, Techniques, and Assessments*.
 - More expertise includes:
   - Natural Language Processing / Generation
   - Machine Learning
